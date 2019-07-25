@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Remainder App</string>
+    <string-array name="color">
+        <item>Beep</item>
+        <item>Breeze</item>
+        <item>Chimes</item>
+        <item>candy</item>
+        <item>Daydream</item>
+        <item>Fireflies</item>
+
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
