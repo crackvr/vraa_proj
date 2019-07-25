@@ -14,7 +14,6 @@ public class CallFragment extends Fragment {
     Button firstButton;
 
 
-    /* Read this link for more info on inflator : https://www.bignerdranch.com/blog/understanding-androids-layoutinflater-inflate/  */
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
